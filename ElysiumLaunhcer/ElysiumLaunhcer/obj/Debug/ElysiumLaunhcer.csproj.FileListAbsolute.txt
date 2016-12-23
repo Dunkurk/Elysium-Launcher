@@ -1,0 +1,15 @@
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Debug\ElysiumLaunhcer.exe.config
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Debug\ElysiumLaunhcer.exe.manifest
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Debug\ElysiumLaunhcer.application
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Debug\ElysiumLaunhcer.exe
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Debug\ElysiumLaunhcer.pdb
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.Form1.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.frmFirstTime.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.frmSettings.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.Properties.Resources.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.csproj.GenerateResource.Cache
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.exe.manifest
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.application
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.exe
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.pdb
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Debug\ElysiumLaunhcer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Release\ElysiumLaunhcer.exe.config
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Release\ElysiumLaunhcer.exe.manifest
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Release\ElysiumLaunhcer.application
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Release\ElysiumLaunhcer.exe
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\bin\Release\ElysiumLaunhcer.pdb
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.Form1.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.frmFirstTime.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.frmSettings.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.Properties.Resources.resources
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.csproj.GenerateResource.Cache
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.exe.manifest
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.application
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.exe
+C:\Users\Dunkurk\Documents\GitHub\ElysiumLaunhcer\ElysiumLaunhcer\obj\Release\ElysiumLaunhcer.pdb
